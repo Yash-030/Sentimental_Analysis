@@ -60,6 +60,7 @@ After starting the application, open your web browser and go to `http://127.0.0.
 ## Project Structure
 
 sentimental_Analysis_webapp/
+
 ├── app.py
 
 ├── sentiment_analysis.py
