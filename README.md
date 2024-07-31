@@ -8,7 +8,6 @@ This project is a web application for sentiment analysis of restaurant reviews. 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
