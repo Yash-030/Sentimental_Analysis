@@ -61,10 +61,15 @@ After starting the application, open your web browser and go to `http://127.0.0.
 
 sentimental_Analysis_webapp/
 ├── app.py
+
 ├── sentiment_analysis.py
+
 ├── Reviews.csv
+
 ├── requirements.txt
+
 ├── templates/
+
 │ └── index.html
 
 
